@@ -1,1 +1,1 @@
-"Autor: Zuzanna Bukowska" 
+"Kurs: Technologie DevOps" 
